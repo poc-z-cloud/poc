@@ -1,2 +1,2 @@
 # poc-boot
-a spring boot application.
+a spring boot web application.

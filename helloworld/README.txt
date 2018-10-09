@@ -1,0 +1,1 @@
+a simple helloworld eclipse project consists of simple tests.

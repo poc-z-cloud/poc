@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/boot-web/pom.xml" />
         <option value="$PROJECT_DIR$/restfulClient/pom.xml" />
         <option value="$PROJECT_DIR$/restfulServer/pom.xml" />
+        <option value="$PROJECT_DIR$/core-java/pom.xml" />
       </list>
     </option>
   </component>
